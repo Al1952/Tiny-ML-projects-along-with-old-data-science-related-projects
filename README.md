@@ -1,2 +1,2 @@
-# Final_Exam_Data_Analysis_with_Python
+# tiny ML files
 Refer to the Tiny ML branch
